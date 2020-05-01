@@ -1,12 +1,20 @@
 # 剑客科技 代码一行格式化工具
 
----
 
 **访问在线版: https://d.jeiku.net/web/Formatline.html (基于我司服务器.可快速访问)**
 
+## V1.01版本
+
+![](https://d.jeiku.net/.currency/imglibrary/1_d2f9cf529b9f4271e75917321c544f0d.png)
+
+* 源代码不使用格式化
+* 添加`最大一个空格`视图和复制按钮
+* 更改视图样式
 
 
 ## V1.00版本
+
+![](https://d.jeiku.net/.currency/imglibrary/2_8e725470801e93ca01a151a43e19ab54.png)
 
 * 使用vue架构 和 javascript 开发
 * 实现代码格式化
@@ -16,7 +24,6 @@
 * 上传Github
 * 开源许可 MIT
 
----
 
 ## 用途:
 
@@ -141,7 +148,7 @@
 
 ## 开源许可:MIT许可
 
-### 许可证:  https://github.com/JEIKU-Technology/Formatline/blob/master/LICENSE
+** 许可证:  https://github.com/JEIKU-Technology/Formatline/blob/master/LICENSE **
 
 ```
 MIT License
